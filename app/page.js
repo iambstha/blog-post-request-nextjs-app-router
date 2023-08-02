@@ -30,6 +30,8 @@ export default function Home() {
     setAge('')
   }
 
+  
+
   return (
     <div className=" flex flex-col justify-center items-center w-full p-8 ">
       <h1 className=" w-full text-center m-4 font-semibold text-lg ">GET & POST Request in NextJS Stable App Router</h1>
